@@ -1,0 +1,13 @@
+{
+    "folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Radio"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "DU01"
+    }
+}
